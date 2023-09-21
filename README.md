@@ -1,0 +1,2 @@
+# Mijiao_Consumption_Management
+这是一个基于Python的日常收入支出管理系统，使用了Streamlit作为用户界面，同时使用SQLite数据库来存储数据。此系统允许用户记录和管理他们的收入和支出情况，还提供了查询、删除和备份数据的功能。
